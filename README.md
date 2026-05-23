@@ -1,0 +1,2 @@
+The Bhangarwala is a modern recycling and scrap management platform designed to digitize the traditional kabad system. The project successfully demonstrates how technology can improve waste management through transparent pricing, reward systems, and user-friendly digital experiences.
+The platform promotes sustainable recycling while providing users with an engaging and accessible interface. With future backend integration and real-time services, The Bhangarwala has strong potential to become a complete market-ready recycling solution.
